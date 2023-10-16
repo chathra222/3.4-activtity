@@ -1,0 +1,23 @@
+{
+  "name": "3.4-activtity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathra222/3.4-activtity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathra222/3.4-activtity/issues"
+  },
+  "homepage": "https://github.com/chathra222/3.4-activtity#readme"
+}
